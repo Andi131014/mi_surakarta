@@ -8,5 +8,6 @@
 <body>
     <h3> Management Informatika</h3>
     <h3> STMIK AMIKOM SURAKARTA</h3>
+    <h3> membuat aplikasi web untuk media pembelajaran</h3>
 </body>
 </html>
